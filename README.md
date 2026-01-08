@@ -7,6 +7,8 @@
 
 ## 🖼️ Visão Geral do Projeto
 
+Link Para Acesso: https://kevinbarbim.github.io/ProjetoPessoal1PowerBI/
+
 Este projeto consiste em um Dashboard interativo desenvolvido em **Microsoft Power BI**, focado na análise estratégica de três pilares fundamentais da empresa: **Vendas, Financeiro e Recursos Humanos (Folha de Pagamento)**.
 
 O objetivo foi transformar dados brutos em insights visuais, facilitando a tomada de decisão com um design moderno (**Dark Mode**) e navegação intuitiva.
