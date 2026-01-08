@@ -11,15 +11,6 @@ Este projeto consiste em um Dashboard interativo desenvolvido em **Microsoft Pow
 
 O objetivo foi transformar dados brutos em insights visuais, facilitando a tomada de decisão com um design moderno (**Dark Mode**) e navegação intuitiva.
 
-### 📷 Prévias
-
-![Capa do Dashboard](./assets/capa.png)
-*Tela Inicial com navegação personalizada estilo App.*
-
-![Análise de RH](./assets/rh.png)
-*Análise de Folha de Pagamento e custos por setor.*
-
----
 
 ## 🚀 Funcionalidades e Insights
 
@@ -58,9 +49,4 @@ Neste projeto, o foco foi além da técnica:
 
 ---
 
-## 👨‍💻 Autor
 
-Desenvolvido por **Kevin Castilho** (KEV Informática).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
